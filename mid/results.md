@@ -47,7 +47,7 @@
 
 7. Overload.java (Object, Number, Float) -             Float
 
-8. Test.java (switch) -                                compil.Err
+8. Test.java (switch(long)) -                          compil.Err
 
 8a Test.java (switch(i&01) -                           Case1 Case2 Default Case3
 
